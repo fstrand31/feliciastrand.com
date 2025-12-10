@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Felicia Strand – Animation</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <h1 class="site-title">Felicia Strand</h1>
+      <img src="images/picprofme.jpg" alt="Portrait of you" class="portrait" />
+      <nav class="nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="graphics.html">Graphic Design</a></li>
+          <li><a href="illustration.html">Illustration</a></li>
+          <li><a href="animation.html" class="active">Animation</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <!-- Example Animation entries -->
+     <section class="entry left">
+  <video class="entry-video" controls poster="images/crypt.jpeg">
+    <source src="images/CS_427_Animation_Final.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title">History of Cryptography Animation</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      This motion-graphics explainer traces the evolution of cryptography across centuries, created as a part of the OSU Ecampus Development Team for a 400-level Computer Science course. Designed all custom graphics, led the animation process, and oversaw sound-effects to create a cohesive visual and auditory experience that makes complex technical history engaging for online learners.
+    </p>
+    <button class="more-btn" data-gallery="gallery7">+</button>
+  </div>
+</section>
+
+      <section class="entry left">
+  <video class="entry-video" controls poster="images/averages.jpeg">
+    <source src="images/MTH_212_Averages_Sound_FX.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title">Averages OSU Animation</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      This motion-graphics explainer introduces the concept of averages, created as part of the OSU Ecampus Development Team for a 200-level Mathematics course. Designed all custom graphics, led the animation process, and oversaw sound-effects to create a clear, engaging visual framework that supports student understanding of foundational mathematical concepts.
+    </p>
+    <button class="more-btn" data-gallery="gallery8">+</button>
+  </div>
+
+  <section class="entry left">
+  <video class="entry-video" controls poster="images/ROC_thumb.jpeg">
+    <source src="images/ROC_6_11.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title">OSU Ecampus Development Animation</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      This project's design was inspired by the Love, Death & Robots intro sequence. This video is meant to outline the abilities of the Ecampus course development and design team and highlight their adherence to Bloom's Taxonomy
+    </p>
+    <button class="more-btn" data-gallery="gallery9">+</button>
+  </div>
+
+  <section class="entry left">
+  <video class="entry-video" controls poster="images/pizza_thumb.jpeg">
+    <source src="images/MTH_212_Division_sound_fx.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title">Division OSU Animation</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      Motion graphics explainer introducting the concept of division. Created as a part of the OSU Ecampus Development Team. Personally created all graphics, backgrounds, animations, and added sound effects.
+    </p>
+    <button class="more-btn" data-gallery="gallery10">+</button>
+  </div>
+
+  <section class="entry left">
+  <video class="entry-video" controls poster="images/">
+    <source src="images/MTH_212_Negatives_Sound_FX.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title">Negatives OSU Animation</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      Motion graphics explainer introducting concept of negatives to a 200 level Math class at OSU. Created as a part of the OSU Ecampus Development Team. Personally created all graphics, backgrounds, animations, and added sound effects.
+    </p>
+    <button class="more-btn" data-gallery="gallery11">+</button>
+  </div>
+
+    <section class="entry left">
+  <video class="entry-video" controls poster="images/">
+    <source src="images/MTH_212_See-Saw_Sound_FX.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title">Algebra OSU Animation</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      Motion graphics explainer introducting concept of algebra to a 200 level Math class at OSU. Created as a part of the OSU Ecampus Development Team. Personally created all graphics, backgrounds, animations, and added sound effects.
+    </p>
+    <button class="more-btn" data-gallery="gallery12">+</button>
+  </div>
+
+  <section class="entry left">
+  <video class="entry-video" controls poster="images/ballandbox.jpeg">
+    <source src="images/strand_felicia-ball & box FINAL.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title"><i>New Game</i> 3D Animation Sample</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      3D animation sample exhibiting keyframe animation, stretch and squeeze and anticipation principles, and camera animation. Created as a student of NMC 484 3D animation course. Created using Maya & Premiere Pro. 
+  </div>
+
+
+  <section class="entry left">
+  <video class="entry-video" controls poster="images/mecharm.jpeg">
+    <source src="images/strand_felicia-IK Mech Arm FINAL.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <div class="entry-text">
+    <h3 class="entry-title"><i>Gustatory Learning</i> 3D Animation Sample</h3>
+    <p class="entry-year">2025</p>
+    <p class="entry-description">
+      3D animation sample exhibiting keyframe animation, secondary action, staging, anticipation principles, parent constraints, and camera animation. Created as a student of NMC 484 3D animation course. Created using Maya & Premiere Pro.
+  </div>
+
+</section>
+    </main>
+  </div>
+  
+
+  <button id="theme-toggle" class="theme-toggle">₊˚⊹Light Mode⊹˚₊</button>
+
+ <!-- Modal container (only one) -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span id="modal-close" class="close">&times;</span>
+
+    <!-- Carousel wrapper -->
+    <div class="carousel">
+      <img id="carousel-main" src="" alt="" />
+      <button id="prev" class="arrow left-arrow">&lt;</button>
+      <button id="next" class="arrow right-arrow">&gt;</button>
+    </div>
+
+    <!-- Thumbnails -->
+    <div id="carousel-thumbnails" class="carousel-thumbnails"></div>
+  </div>
+</div>
+
+<!-- Hidden galleries for reference only -->
+<div id="gallery7" class="gallery" style="display:none">
+  <img src="images/cryptog_title.png" alt="Title Screen" />
+  <img src="images/enigma_machine.png" alt="Enigma Machine Graphic" />
+  <img src="images/bletchley_park_still.png" alt="Bletchley Park" />
+  <img src="images/bletchley_machine.png" alt="Bletchley Machine" />
+</div>
+
+<div id="gallery8" class="gallery" style="display:none">
+  <img src="images/house.jpeg" alt="Averages Graphic 1" />
+  <img src="images/class.jpeg" alt="Averages Graphic 2" />
+  <img src="images/tests.jpeg" alt="Averages Graphic 3" />
+  <img src="images/june.jpeg" alt="Averages Diagram 1" />
+</div>
+
+<div id="gallery9" class="gallery" style="display:none">
+  <img src="images/ROC_Icons_port-01.png" alt="ROC Icons" />
+  <img src="images/ROC_Icons_port-02.png" alt="ROC Icons2" />
+  <img src="images/ROC_Icons_port-03.png" alt="ROC Icons3" />
+</div>
+
+<div id="gallery10" class="gallery" style="display:none">
+  <img src="images/pizzabox.jpeg" alt="Pizza Box" />
+  <img src="images/pizzabox1.jpeg" alt="Pizza Box1" />
+  <img src="images/pizzabox3.jpeg" alt="Pizza Box3" />
+</div>
+
+<div id="gallery11" class="gallery" style="display:none">
+  <img src="images/Busstop_scene.jpeg" alt="Bus Stop Scene" />
+</div>
+
+<div id="gallery12" class="gallery" style="display:none">
+  <img src="images/see-saw1.jpeg" alt="See Saw" />
+  <img src="images/see-saw2.jpeg" alt="See Saw2" />
+  <img src="images/see-saw3.jpeg" alt="See Saw3" />
+</div>
+
+<script src="js/scripts.js"></script>
+</body>
