@@ -1,428 +1,467 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Felicia Strand – Graphic Design</title>
-  <link rel="stylesheet" href="css/styles.css" />
+ <meta charset="UTF-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <title>Felicia Strand – Graphic Design</title>
+ <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
-  <div class="container">
-    <!-- ================= SIDEBAR ================= -->
-    <aside class="sidebar">
-      <h1 class="site-title">Felicia Strand</h1>
-      <img src="images/picprofme.jpg" alt="Portrait of you" class="portrait" />
-      <nav class="nav">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="graphics.html" class="active">Graphic Design</a></li>
-          <li><a href="illustration.html">Illustration</a></li>
-          <li><a href="animation.html">Animation</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
-    </aside>
+ <div class="container">
+   <!-- ================= SIDEBAR ================= -->
+   <aside class="sidebar">
+     <h1 class="site-title">Felicia Strand</h1>
+     <img src="https://drive.google.com/uc?export=view&id=1BgwHynx2-AvwF5Dun-4Zh68vuSmjmUfW" alt="Portrait of you" class="portrait" />
+     <nav class="nav">
+       <ul>
+         <li><a href="index.html">Home</a></li>
+         <li><a href="graphics.html" class="active">Graphic Design</a></li>
+         <li><a href="illustration.html">Illustration</a></li>
+         <li><a href="animation.html">Animation</a></li>
+         <li><a href="about.html">About</a></li>
+         <li><a href="contact.html">Contact</a></li>
+       </ul>
+     </nav>
+   </aside>
 
-    <!-- ================= MAIN CONTENT ================= -->
-    <main class="content">
+
+   <!-- ================= MAIN CONTENT ================= -->
+   <main class="content">
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=15270GlMKfJDqSdoWr5XymGjW6CKCitHS" alt="Totoro Playing Cards" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Totoro Playing Cards</h3>
+         <p class="entry-year">2024</p>
+         <p class="entry-description">
+           Number, Back, and Face cards inspired by <i>Totoro</i> by Studio Ghibli. Created in Illustrator.
+         </p>
+         <button class="more-btn" data-gallery="gallery1">+</button>
+       </div>
+     </section>
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1it_hhH49OhDDc9owgjAwovpGeifwxv1S" alt="Bookmaking Promo Poster" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Bookmaking Promotional Poster</h3>
+         <p class="entry-year">2023</p>
+         <p class="entry-description">Promotional poster for a Bookmaking class at Central Oregon Community Class. Created as a part of the COCC Creative Team. Created using Photoshop & Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery2">+</button>
+       </div>
+     </section>
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1weOUtbFDANWAiIwKoTXCrycthUfWTDkz" alt="Bookmaking Promo Square" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Bookmaking Class Promotional Ad</h3>
+         <p class="entry-year">2023</p>
+         <p class="entry-description">Square Instagram ad promoting a Bookmaking class at Central Oregon Community Class. Created as a part of the COCC Creative Team. Created using Photoshop & Illustrator.</p>
+       </div>
+     </section>
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1rQjyvmG8srBIcALyzjwCIcsGYEMA1UG0" alt="Horticulture Clippings" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Horticulture Clippings</h3>
+         <p class="entry-year">2024</p>
+         <p class="entry-description">
+           Vector graphic of softwood hibiscus clippings. Made for Oregon State University's HORT 310 Ecampus course.
+         </p>
+         <button class="more-btn" data-gallery="gallery13">+</button>
+       </div>
+     </section>
+
+
+         <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1CRXjZJsODlVm4VqiCvv2q4fLAulLZWfZ" alt="Hiroshima Camp Map" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Hiroshima City (広島市) Campground Map</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Stylized map depicting Hiroshima City in Japan. Map indicates Onsen facilities and campsite locations in and near the city. Hiroshima Prefectural mascot, Bunkakki, an oyster with a maple leaf on it's head is depicted. Created in Illustrator.</p>
+       </div>
+     </section>
+
+
+       <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=13nTHiu5JS6lswBOx0FJz1YdqDv8uubxE" alt="Shimanami Kaido Map" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Shimanami Kaido (しまなみ海道) Map</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Stylized map depicting the Shimanami Kaido bike path in Hiroshima & Ehime Prefectures, Japan. Map indicates Onsen facilities and campsite locations along the route. Ehime Prefecture's mascot, Mikyan, a mikan themed dog, is depicted. Created in Illustrator.</p>
+       </div>
+     </section>
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1Wp-bC-09xdqrYhbZCUZYAHeycNMslG8k" alt="Chicken Graphic" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Animal Science Graphics </h3>
+         <p class="entry-year">2023</p>
+         <p class="entry-description">Graphics created for instructional use in an OSU Animal Science course. Series of realistic animal portraits to support Animal Science course via OSU Ecampus Development Team. Created using Illustrator & Photoshop.</p>
+         <button class="more-btn" data-gallery="gallery4">+</button>
+       </div>
+     </section>
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=19m-cI8d1v-n2f5onp889j3NN_8GlyCee" alt="Character design" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Minimal Character Design - Gardeners</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery15">+</button>
+       </div>
+     </section>
+
+
+        <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1ewU20xXE5Pyna9oUQD2v7VzClNSlXMPV" alt="Character design" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Minimal Character Design - Student</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery16">+</button>
+       </div>
+     </section>
+
+
+        <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1ofsXQjGldbg4MyZnhxnaOgwTK_iC2mP5" alt="Character design" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Minimal Character Design - Teacher</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery17">+</button>
+       </div>
+     </section>
+
+
+       <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=12DXJYnIxURDTPnr2Ukf_oweKIdMpftCf" alt="Character design" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Minimal Character Design - Faces</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery18">+</button>
+       </div>
+     </section>
+
+
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1xKXgvlJr8QgjvPGdupyfGgBoL2o9TYKD" alt="Beekeeper Square Ads" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Beekeeper Square Ads</h3>
+         <p class="entry-year">2023</p>
+         <p class="entry-description">Square ads promoting a 3D printed air filter designed for small living spaces. Part of a full promotional set including instagram ads and web design. Created using Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery5">+</button>
+       </div>
+     </section>
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1Nh3JLZDll19BRGI9QOAsdc1rCHofu2DQ" alt="Kinesiology Infographic" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">OSU Kinesiology Infographic</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Infographic created to support learning material for a 300 level Kinesiology course at OSU. Created using Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery6">+</button>
+       </div>
+     </section>
+
 
       <section class="entry left">
-        <img src="images/Totoro_PlayingCards.png" alt="Totoro Playing Cards" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Totoro Playing Cards</h3>
-          <p class="entry-year">2024</p>
-          <p class="entry-description">
-            Number, Back, and Face cards inspired by <i>Totoro</i> by Studio Ghibli. Created in Illustrator.
-          </p>
-          <button class="more-btn" data-gallery="gallery1">+</button>
-        </div>
-      </section>
+       <img src="https://drive.google.com/uc?export=view&id=1e9Gqtxaqd5PmcroB8Qkx62QoKNfcrlti" alt="Cryptography Graphics" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Cryptography Graphics</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">38 graphics created to support learning material for a 400 level computer science class. All graphics and components created by hand. Created using Illustrator.</p>
+         <button class="more-btn" data-gallery="gallery14">+</button>
+       </div>
+     </section>
 
-      <section class="entry left">
-        <img src="images/Book Making Poster V1.png" alt="Bookmaking Promo Poster" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Bookmaking Promotional Poster</h3>
-          <p class="entry-year">2023</p>
-          <p class="entry-description">Promotional poster for a Bookmaking class at Central Oregon Community Class. Created as a part of the COCC Creative Team. Created using Photoshop & Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery2">+</button>
-        </div>
-      </section>
 
-      <section class="entry left">
-        <img src="images/Strand_BookBindingPromotionals-3.png" alt="Bookmaking Promo Square" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Bookmaking Class Promotional Ad</h3>
-          <p class="entry-year">2023</p>
-          <p class="entry-description">Square Instagram ad promoting a Bookmaking class at Central Oregon Community Class. Created as a part of the COCC Creative Team. Created using Photoshop & Illustrator.</p>
-        </div>
-      </section>
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1dS-1-MnvxwtZXbKa5S3dYlhRxGu_-r9e" alt="Cathode Ray Graphic" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Cathode Ray Graphic</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Cathode Ray graphic created for a 200 level chemistry class at OSU as a part of the OSU Ecampus Development Team. Created using Illustrator.</p>
+       </div>
+     </section>
 
-      <section class="entry left">
-        <img src="images/lilac_and_hibiscus_clippings.jpg" alt="Horticulture Clippings" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Horticulture Clippings</h3>
-          <p class="entry-year">2024</p>
-          <p class="entry-description">
-            Vector graphic of softwood hibiscus clippings. Made for Oregon State University's HORT 310 Ecampus course.
-          </p>
-          <button class="more-btn" data-gallery="gallery13">+</button>
-        </div>
-      </section>
 
           <section class="entry left">
-        <img src="images/hiroshima_map.png" alt="Hiroshima Camp Map" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Hiroshima City (広島市) Campground Map</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Stylized map depicting Hiroshima City in Japan. Map indicates Onsen facilities and campsite locations in and near the city. Hiroshima Prefectural mascot, Bunkakki, an oyster with a maple leaf on it's head is depicted. Created in Illustrator.</p>
-        </div>
-      </section>
+       <img src="https://drive.google.com/uc?export=view&id=1Mvh4hrib51egeicgP2zmlIf9jq3AXRQM" alt="oil drop exp" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Millikan's Oil Drop Experiment Diagram</h3>
+         <p class="entry-year">2025</p>
+         <p class="entry-description">Millikan's Oil Drop Experiment Diagram graphic created for a 200 level chemistry class at OSU as a part of the OSU Ecampus Development Team. Created using Illustrator.</p>
+       </div>
+     </section>
+
+
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1mksBGFHQ5W71RRTfGnvoSl0IXj3hxUT4" alt="Tea Peaks Packaging Design" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Tea Peaks Packaging Design</h3>
+         <p class="entry-year">2023</p>
+         <p class="entry-description">Packaging design for a fictitious tea company, Tea Peaks during an advanced graphic design course taken at Central Oregon Community College. Created using Illustrator, Photoshop, & InDesign.</p>
+       </div>
+     </section>
+
+
+      <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1phtT0mNifDKUy9pawIL92U5rucgAf7ka" alt="Japan Travel Zine" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Japan Travel Zine</h3>
+         <p class="entry-year">2023</p>
+         <p class="entry-description">Japan travel zine, all photography, graphics, and typography created personally. Featuring special locations all over Japan. Created with Photoshop and Procreate.</p>
+         <button class="more-btn" data-gallery="gallery19">+</button>
+       </div>
+     </section>
+
 
         <section class="entry left">
-        <img src="images/Shimanami-kaido_Infographic.png" alt="Shimanami Kaido Map" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Shimanami Kaido (しまなみ海道) Map</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Stylized map depicting the Shimanami Kaido bike path in Hiroshima & Ehime Prefectures, Japan. Map indicates Onsen facilities and campsite locations along the route. Ehime Prefecture's mascot, Mikyan, a mikan themed dog, is depicted. Created in Illustrator.</p>
-        </div>
-      </section>
-
-      <section class="entry left">
-        <img src="images/Chicken_Fade.png" alt="Chicken Graphic" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Animal Science Graphics </h3>
-          <p class="entry-year">2023</p>
-          <p class="entry-description">Graphics created for instructional use in an OSU Animal Science course. Series of realistic animal portraits to support Animal Science course via OSU Ecampus Development Team. Created using Illustrator & Photoshop.</p>
-          <button class="more-btn" data-gallery="gallery4">+</button>
-        </div>
-      </section>
-
-      <section class="entry left">
-        <img src="images/Final_Character_Study-01.jpg" alt="Character design" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Minimal Character Design - Gardeners</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery15">+</button>
-        </div>
-      </section>
-
-         <section class="entry left">
-        <img src="images/Final_Character_Study-02.jpg" alt="Character design" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Minimal Character Design - Student</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery16">+</button>
-        </div>
-      </section>
-
-         <section class="entry left">
-        <img src="images/Final_Character_Study-03.jpg" alt="Character design" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Minimal Character Design - Teacher</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery17">+</button>
-        </div>
-      </section>
-
-        <section class="entry left">
-        <img src="images/Final_Character_Study-04.jpg" alt="Character design" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Minimal Character Design - Faces</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Characters developed in various minimal styles using Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery18">+</button>
-        </div>
-      </section>
+       <img src="https://drive.google.com/uc?export=view&id=1FcF0GciEBPeJu9_6YsIchyxZvwINYKU1" alt="Sol Faire" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Sol Faire Poster Design</h3>
+         <p class="entry-year">2022</p>
+         <p class="entry-description">Poster design concept for Sol Faire, a festival centered around sustainability & tiny living culture. Created using Procreate.</p>
+         <button class="more-btn" data-gallery="gallery11">+</button>
+       </div>
+     </section>
 
 
-      <section class="entry left">
-        <img src="images/Strand_Capstone_Artboards-10.png" alt="Beekeeper Square Ads" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Beekeeper Square Ads</h3>
-          <p class="entry-year">2023</p>
-          <p class="entry-description">Square ads promoting a 3D printed air filter designed for small living spaces. Part of a full promotional set including instagram ads and web design. Created using Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery5">+</button>
-        </div>
-      </section>
-
-      <section class="entry left">
-        <img src="images/KIN_475_Infographic_v3.jpg" alt="Kinesiology Infographic" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">OSU Kinesiology Infographic</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Infographic created to support learning material for a 300 level Kinesiology course at OSU. Created using Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery6">+</button>
-        </div>
-      </section>
-
-       <section class="entry left">
-        <img src="images/CS_427_Slide_34.png" alt="Cryptography Graphics" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Cryptography Graphics</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">38 graphics created to support learning material for a 400 level computer science class. All graphics and components created by hand. Created using Illustrator.</p>
-          <button class="more-btn" data-gallery="gallery14">+</button>
-        </div>
-      </section>
-
-      <section class="entry left">
-        <img src="images/CH_121_Cathode_Ray_Graphic_HQ.png" alt="Cathode Ray Graphic" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Cathode Ray Graphic</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Cathode Ray graphic created for a 200 level chemistry class at OSU as a part of the OSU Ecampus Development Team. Created using Illustrator.</p>
-        </div>
-      </section>
-
-           <section class="entry left">
-        <img src="images/CS_121_Oil.png" alt="oil drop exp" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Millikan's Oil Drop Experiment Diagram</h3>
-          <p class="entry-year">2025</p>
-          <p class="entry-description">Millikan's Oil Drop Experiment Diagram graphic created for a 200 level chemistry class at OSU as a part of the OSU Ecampus Development Team. Created using Illustrator.</p>
-        </div>
-      </section>
-
-      <section class="entry left">
-        <img src="images/Strand_A6_Packing1pic.png" alt="Tea Peaks Packaging Design" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Tea Peaks Packaging Design</h3>
-          <p class="entry-year">2023</p>
-          <p class="entry-description">Packaging design for a ficticous tea company, Tea Peaks during an advanced graphic design course taken at Central Oregon Community College. Created using Illustrator, Photoshop, & InDesign.</p>
-        </div>
-      </section>
-
-       <section class="entry left">
-        <img src="images/Cover.jpg" alt="Japan Travel Zine" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Japan Travel Zine</h3>
-          <p class="entry-year">2023</p>
-          <p class="entry-description">Japan travel zine, all photography, graphics, and typography created personally. Featuring special locations all over Japan. Created with Photoshop and Procreate.</p>
-          <button class="more-btn" data-gallery="gallery19">+</button>
-        </div>
-      </section>
-
-         <section class="entry left">
-        <img src="images/Sol_Faire_PEACH1.jpg" alt="Sol Faire" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Sol Faire Poster Design</h3>
-          <p class="entry-year">2022</p>
-          <p class="entry-description">Poster design concept for Sol Faire, a festival centered around sustainability & tiny living culture. Created using Procreate.</p>
-          <button class="more-btn" data-gallery="gallery11">+</button>
-        </div>
-      </section>
-
-      <section class="entry left">
-        <img src="images/TechConferenceAdWide.jpg" alt="Webpage Banner Ad" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Webpage Banner Ad</h3>
-          <p class="entry-year">2024</p>
-          <p class="entry-description">Webpage banner ad for a ficticuous telecommunication company, NCL Enterprises. Created using Photoshop & Illustrator.</p>
-        </div>
-      </section>
-
-      <section class="entry left">
-        <img src="images/TechConferenceAdSq.jpg" alt="Square Webpage Ad" class="entry-image" />
-        <div class="entry-text">
-          <h3 class="entry-title">Square Webpage Ad</h3>
-          <p class="entry-year">2024</p>
-          <p class="entry-description">Square webpage ad for a ficticuous telecommunication company, NCL Enterprises. Created using Photoshop & Illustrator.</p>
-        </div>
-      </section>
-
-    </main>
-  </div>
-
-  <!-- ================= LIGHT/DARK MODE TOGGLE ================= -->
-  <button id="theme-toggle" class="theme-toggle">₊˚⊹Light Mode⊹˚₊</button>
-
-  <!-- ================= MODAL ================= -->
- <div id="modal" class="modal">
-  <div class="modal-content">
-    <span id="modal-close" class="close">&times;</span>
-
-    <img id="carousel-main" class="carousel-main" src="" alt="Main image">
-
-    <button id="prev" class="carousel-arrow">←</button>
-    <button id="next" class="carousel-arrow">→</button>
-
-    <div id="carousel-thumbnails" class="carousel-thumbnails"></div>
-
-    <!-- ================= FIXED GALLERIES ================= -->
-
-    <div id="gallery1" class="gallery" style="display:none;">
-      <img src="images/Strand_A2_Back.png" alt="card back">
-      <img src="images/Strand_A2_Number.png" alt="card number">
-      <img src="images/Strand_A2_Face.png" alt="card face">
-    </div>
-
-    <div id="gallery2" class="gallery" style="display:none;">
-      <img src="images/bookmaking_poster.png" alt="book poster">
-      <img src="images/bookmaking_tabs.png" alt="book poster">
-    </div>
-
-    <!-- FIXED: Entry 3 now gets the BookBinding square image(s) -->
-    <div id="gallery3" class="gallery" style="display:none;">
-      <img src="images/Strand_BookBindingPromotionals-3.png" alt="bookmaking square">
-    </div>
-
-    <!-- FIXED: Entry 4 gets all Animal Science graphics -->
-    <div id="gallery4" class="gallery" style="display:none;">
-        <img src="images/pig_fade.png" alt="pig">
-        <img src="images/rabbit_fade.png" alt="rabbit">
-        <img src="images/dairy_cow.png" alt="cow">
-        <img src="images/Horse_Fade_v4.png" alt="horse">
-        <img src="images/Dog_Fade_v4.png" alt="dog"> 
-        <img src="images/Goat_Fade_v4.png" alt="goat">
-        <img src="images/Cat_Fade_v4.png" alt="cat">
-        <img src="images/Beef_Cattle_Fade_v4.png" alt="cattle">
-        <img src="images/Sheep_Fade_v4.png" alt="sheep">
-    </div>
-
-    <!-- FIXED: Entry 5 gets Beekeeper Ads -->
-    <div id="gallery5" class="gallery" style="display:none;">
-      <img src="images/Bee-Keeper Web Page.jpg" alt="beekeeper web page">
-      <img src="images/Strand_Capstone_Artboards-07.png" alt="beekeeper square">
-      <img src="images/Strand_Capstone_Artboards-08.png" alt="beekeeper square2">
-    </div>
-
-    <div id="gallery6" class="gallery" style="display:none;">
-      <img src="images/athlete_sketches.png" alt="Athlete Sketches">
-      <img src="images/Infographic_Sketch.jpg" alt="infographic Sketches">
-    </div>
-
-    <div id="gallery7" class="gallery" style="display:none;">
-      <img src="images/Shimanami-kaido_Infographic.png" alt="More from project 2">
-    </div>
-
-    <div id="gallery8" class="gallery" style="display:none;">
-      <img src="images/hiroshima_map.png" alt="More from project 2">
-    </div>
-
-    <div id="gallery9" class="gallery" style="display:none;">
-        <img src="images/CS_121_Oil.png" alt="Oil Diagram">
-      <img src="images/CH_121_Gold_Foil.png" alt="gold foil">
-    </div>
-
-    <div id="gallery10" class="gallery" style="display:none;">
-
-    </div>
-    
-
-    <div id="gallery11" class="gallery" style="display:none;">
-      <img src="images/Sol_Faire_DARK ORANGE.jpg" alt="More from project 2">
-      <img src="images/Sol_Faire_ELECTRIC BANANA LEAF.jpg" alt="More from project 2">
-      <img src="images/Sol_Faire_SAGE_small.jpg" alt="More from project 2">
-    </div>
-
-    <div id="gallery12" class="gallery" style="display:none;">
-      <img src="images/sample-graphic2a.jpg" alt="More from project 2">
-    </div>
-
-     <div id="gallery13" class="gallery" style="display:none;">
-    <img src="images/softwood_hibiscus.png" alt="Hibiscus clipping">
-    <img src="images/Semi-hardwood lilac_final.png" alt="Lilac clipping">
-  </div>
-
-     <div id="gallery14" class="gallery" style="display:none;">
-    <img src="images/CS_427_Slide_37.png" alt="slide 37 cs">
-    <img src="images/CS_427_Slide_24.png" alt="slide 24 cs">
-    <img src="images/CS_427_Slide_35.png" alt="slide 35 cs">
-    <img src="images/CS_427_Slide_21.png" alt="slide 21 cs">
-    <img src="images/CS_427_Slide_8.png" alt="slide 8 cs">
-    <img src="images/CS_427_Slide_19.png" alt="slide 19 cs">
-    <img src="images/CS_427_Slide_30.png" alt="slide 30 cs">
-  </div>
-
-   <div id="gallery15" class="gallery" style="display:none;">
-      <img src="images/Artboard 1.jpg" alt="sketches gardener">
-  </div>
-
-     <div id="gallery16" class="gallery" style="display:none;">
-    <img src="images/Artboard 8.jpg" alt="sketches student">
-  </div>
-
-    <div id="gallery17" class="gallery" style="display:none;">
-     <img src="images/Artboard 7.jpg" alt="sketches teachers">
-  </div>
-
-      <div id="gallery18" class="gallery" style="display:none;">
-    <img src="images/Artboard 2.jpg" alt="sketches faces">
-  </div>
-
-      <div id="gallery19" class="gallery" style="display:none;">
-    <img src="images/1 & 2.jpg" alt="pgs 1 and 2">
-     <img src="images/3&4.jpg" alt="pgs 3 and 4">
-<img src="images/5&6.jpg" alt="pgs 5 and 6">
- <img src="images/7&8.jpg" alt="pgs 7 and 8">
- <img src="images/9&10.jpg" alt="pgs 9 and 10">
- <img src="images/11&12.jpg" alt="pgs 11 and 12">
-  <img src="images/13&14.jpg" alt="pgs 13 and 14">
-  <img src="images/15&16.jpg" alt="pgs 15 and 16">
- <img src="images/17&18.jpg" alt="pgs 17 and 18">
-  <img src="images/19&20.jpg" alt="pgs 19 and 20">
-  <img src="images/21&22.jpg" alt="pgs 21 and 22">
-    <img src="images/23&24.jpg" alt="pgs 23 and 24">
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1XOWEG7TW-ZlZ8V39XysUk4VxZ7ysenlI" alt="Webpage Banner Ad" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Webpage Banner Ad</h3>
+         <p class="entry-year">2024</p>
+         <p class="entry-description">Webpage banner ad for a fictitious telecommunication company, NCL Enterprises. Created using Photoshop & Illustrator.</p>
+       </div>
+     </section>
 
 
-  </div>
+     <section class="entry left">
+       <img src="https://drive.google.com/uc?export=view&id=1NZuBnnjBYn2JkoRWI_Pb7w5dTwWhgzVN" alt="Square Webpage Ad" class="entry-image" />
+       <div class="entry-text">
+         <h3 class="entry-title">Square Webpage Ad</h3>
+         <p class="entry-year">2024</p>
+         <p class="entry-description">Square webpage ad for a fictitious telecommunication company, NCL Enterprises. Created using Photoshop & Illustrator.</p>
+       </div>
+     </section>
 
-  </div>
+
+   </main>
  </div>
 
- <!-- Lightbox for individual images -->
-<div id="lightbox" style="
-  position:fixed;
-  top:0; left:0;
-  width:100vw; height:100vh;
-  background:rgba(0,0,0,0.8);
-  display:none;
-  justify-content:center;
-  align-items:center;
-  z-index:9999;
-">
-  <span id="lightbox-close" style="
-    position:absolute;
-    top:20px; right:30px;
-    font-size:3rem;
-    color:white;
-    cursor:pointer;
-  ">&times;</span>
-  <img id="lightbox-img" src="" alt="" style="
-    max-width:90%;
-    max-height:90%;
-    border-radius:6px;
-  ">
+
+ <!-- ================= LIGHT/DARK MODE TOGGLE ================= -->
+ <button id="theme-toggle" class="theme-toggle">₊˚⊹Light Mode⊹˚₊</button>
+
+
+ <!-- ================= MODAL ================= -->
+<div id="modal" class="modal">
+ <div class="modal-content">
+   <span id="modal-close" class="close">&times;</span>
+
+
+   <img id="carousel-main" class="carousel-main" src="" alt="Main image">
+
+
+   <button id="prev" class="carousel-arrow">←</button>
+   <button id="next" class="carousel-arrow">→</button>
+
+
+   <div id="carousel-thumbnails" class="carousel-thumbnails"></div>
+
+
+   <!-- ================= FIXED GALLERIES ================= -->
+
+
+   <div id="gallery1" class="gallery" style="display:none;">
+     <img src="https://drive.google.com/uc?export=view&id=1YjDUzFpK1NrpZ_FGZXzGasnQaqX1Pfe2" alt="card back">
+     <img src="https://drive.google.com/uc?export=view&id=1L2DibJKnJguRuG3lGdLQ7y_EtgkqoznD" alt="card number">
+     <img src="https://drive.google.com/uc?export=view&id=1Zv6rfK94STO2htCov31-GSwk2sDVi48L" alt="card face">
+   </div>
+
+
+   <div id="gallery2" class="gallery" style="display:none;">
+     <img src="https://drive.google.com/uc?export=view&id=1JrriN1EA1MuC34k65TXCBV6trZY8jujh" alt="book poster">
+     <img src="https://drive.google.com/uc?export=view&id=132XNZ-spkJLFjYzoUFtlyieabojPisge” alt="book poster">
+   </div>
+
+
+   <!-- FIXED: Entry 4 gets all Animal Science graphics -->
+   <div id="gallery4" class="gallery" style="display:none;">
+       <img src="https://drive.google.com/uc?export=view&id=1uAEYNr5EDdS5itSLlnvfu1SwApNtnnto" alt="pig">
+       <img src="https://drive.google.com/uc?export=view&id=1O8RkUHQkB0wZZqHtO1Nn7KgAny4YSoha" alt="rabbit">
+       <img src="https://drive.google.com/uc?export=view&id=1J1VQzs_5FOWj3cQT7VNoAmwcl7CRY2EY" alt="cow">
+       <img src="https://drive.google.com/uc?export=view&id=17LgqASZp-uPQ4UrNrY_qABKyxuIOR226" alt="horse">
+       <img src="https://drive.google.com/uc?export=view&id=1EEYLweKOuBzVwD8jGim5YCkDwLC_iExQ" alt="dog">
+       <img src="https://drive.google.com/uc?export=view&id=1IdVFVJm7MLbIfvYL2LC_mgVLmhNyUKcF" alt="goat">
+       <img src="https://drive.google.com/uc?export=view&id=1raF4ADv7_534uPYh_gbOiF3zr0CIvinC" alt="cat">
+       <img src="https://drive.google.com/uc?export=view&id=1H2FQ69563l_YZ9IwTGWUOutIi_EbNXdp" alt="cattle">
+       <img src="https://drive.google.com/uc?export=view&id=1bS-tfsbTt3ST_p-X2w1agv-gIsOyx87X" alt="sheep">
+   </div>
+
+
+   <!-- FIXED: Entry 5 gets Beekeeper Ads -->
+   <div id="gallery5" class="gallery" style="display:none;">
+     <img src="https://drive.google.com/uc?export=view&id=19bHeI0yxQIVMFC7Vltt-JuK_oQVdij6v" alt="beekeeper web page">
+     <img src="https://drive.google.com/uc?export=view&id=1xKXgvlJr8QgjvPGdupyfGgBoL2o9TYKD" alt="beekeeper square">
+     <img src="https://drive.google.com/uc?export=view&id=1s47Yio5sePJv44_RPJDvvcT5zSXg4glA" alt="beekeeper square2">
+   </div>
+
+
+   <div id="gallery6" class="gallery" style="display:none;">
+     <img src="https://drive.google.com/uc?export=view&id=1CV1COUtFah3YY1F8nykIwiRrcQ6VMhta" alt="Athlete Sketches">
+     <img src="https://drive.google.com/uc?export=view&id=19iO9IuLnuoNR1dY_3H5mIWRKMpNhH6sG" alt="infographic Sketches">
+   </div>
+
+
+   <div id="gallery9" class="gallery" style="display:none;">
+       <img src="https://drive.google.com/uc?export=view&id=1Mvh4hrib51egeicgP2zmlIf9jq3AXRQM" alt="Oil Diagram">
+   </div>
+
+
+   <div id="gallery10" class="gallery" style="display:none;">
+
+
+   </div>
+  
+
+
+   <div id="gallery11" class="gallery" style="display:none;">
+     <img src="https://drive.google.com/uc?export=view&id=1DkDAoPFiOUaj-UkK5oJCV-OuUF3oO7r7" alt="More from project 2">
+     <img src="https://drive.google.com/uc?export=view&id=1cEnp9KvNotGvw0yeJXjpgwQxgvzFu7t0" alt="More from project 2">
+     <img src="https://drive.google.com/uc?export=view&id=1QCvSR7rQsP74F-67f82cPBI51VsgYh-0" alt="More from project 2">
+   </div>
+
+
+    <div id="gallery13" class="gallery" style="display:none;">
+   <img src="https://drive.google.com/uc?export=view&id=1nfupAhusBqptkdU-_lESW6KGzHCDdAZ9" alt="Hibiscus clipping">
+   <img src="https://drive.google.com/uc?export=view&id=12B6io1t3jJLnMDcP3J4Sz49hvdA-0_iF" alt="Lilac clipping">
+ </div>
+
+
+    <div id="gallery14" class="gallery" style="display:none;">
+   <img src="https://drive.google.com/uc?export=view&id=1eRjcqjH41jMvdzqhVCM9-U-q_XLuDT5n" alt="slide 37 cs">
+   <img src="https://drive.google.com/uc?export=view&id=1edLCB1XoBtbcVXHbH_NWnK0PM9MAeIuf" alt="slide 24 cs">
+   <img src="https://drive.google.com/uc?export=view&id=1tEZ6jfaq8HeVgKLXkP3V-0Ykq6cQFSxe" alt="slide 35 cs">
+   <img src="https://drive.google.com/uc?export=view&id=1QS6tT8PmPagdk5ry_TpJONoE87e-2EYw" alt="slide 21 cs">
+   <img src="https://drive.google.com/uc?export=view&id=1PJ7iTaYuq363XFqkC0Yh0iYkivEqnbKy" alt="slide 8 cs">
+   <img src="https://drive.google.com/uc?export=view&id=1PJ7iTaYuq363XFqkC0Yh0iYkivEqnbKy" alt="slide 19 cs">
+   <img src="https://drive.google.com/uc?export=view&id=1FQ69Z6AwqJmt3zgieT3TdIYW4ly2wW8F" alt="slide 30 cs">
+ </div>
+
+
+  <div id="gallery15" class="gallery" style="display:none;">
+     <img src="https://drive.google.com/uc?export=view&id=1ifQlUS5-634ZoGam3gpdtZRGn9u3dm6v" alt="sketches gardener">
+ </div>
+
+
+    <div id="gallery16" class="gallery" style="display:none;">
+   <img src="https://drive.google.com/uc?export=view&id=17uFf4a9Dnz-ihOhPcGbMZv5vtc6UoQvx" alt="sketches student">
+ </div>
+
+
+   <div id="gallery17" class="gallery" style="display:none;">
+    <img src="https://drive.google.com/uc?export=view&id=1s5HaAnp5gBCgwFD4XVqVLiYfQS9uGHMN" alt="sketches teachers">
+ </div>
+
+
+     <div id="gallery18" class="gallery" style="display:none;">
+   <img src="https://drive.google.com/uc?export=view&id=1r_uiexl2FsL2Tj8vndooc2mCy8aO9M3g" alt="sketches faces">
+ </div>
+
+
+     <div id="gallery19" class="gallery" style="display:none;">
+   <img src="https://drive.google.com/uc?export=view&id=1dWBvR4mjTEs8IClfdZ0WyzBZPY37ZdhD" alt="pgs 1 and 2">
+    <img src="https://drive.google.com/uc?export=view&id=1tt46p0twvtY6uWutXElDRzPwmyL6pkPN" alt="pgs 3 and 4">
+<img src="https://drive.google.com/uc?export=view&id=1Xw6CbRvF4R0mKgEmrMzvSN8kdYsHPSUB" alt="pgs 5 and 6">
+<img src="https://drive.google.com/uc?export=view&id=1HoR-1xVwALA_uVWFtC8FKBXcFGE6xRf8" alt="pgs 7 and 8">
+<img src="https://drive.google.com/uc?export=view&id=1-cbLJrQ_pX2LGE8UqXHDMOo34y9P42d2" alt="pgs 9 and 10">
+<img src="https://drive.google.com/uc?export=view&id=1DhrpPxmlMSPp3HcieAcN-IOem9Y_JomY" alt="pgs 11 and 12">
+ <img src="https://drive.google.com/uc?export=view&id=1aIxeRzwmJ_ayol5MHldh2-A1o9wvqwpJ" alt="pgs 13 and 14">
+ <img src="https://drive.google.com/uc?export=view&id=1GCdVFOCGrCYYciGPDGKUZINvJxWlzcXx" alt="pgs 15 and 16">
+<img src="https://drive.google.com/uc?export=view&id=1ldnKiRblIEqEQFYZSlSnZ-ziUpHTiEQN" alt="pgs 17 and 18">
+ <img src="https://drive.google.com/uc?export=view&id=1WDdIUKWPF7wiWy8EI87by1spBk_v5rWQ" alt="pgs 19 and 20">
+ <img src="https://drive.google.com/uc?export=view&id=177mR20Frv5vN0vRRWb-JhpDUk9U3sHJy" alt="pgs 21 and 22">
+   <img src="https://drive.google.com/uc?export=view&id=1ZtH1rmwmvSTL43EispgR3toLfwtCLz8s" alt="pgs 23 and 24">
+
+
+
+
+ </div>
+
+
+ </div>
 </div>
 
 
+<!-- Lightbox for individual images -->
+<div id="lightbox" style="
+ position:fixed;
+ top:0; left:0;
+ width:100vw; height:100vh;
+ background:rgba(0,0,0,0.8);
+ display:none;
+ justify-content:center;
+ align-items:center;
+ z-index:9999;
+">
+ <span id="lightbox-close" style="
+   position:absolute;
+   top:20px; right:30px;
+   font-size:3rem;
+   color:white;
+   cursor:pointer;
+ ">&times;</span>
+ <img id="lightbox-img" src="" alt="" style="
+   max-width:90%;
+   max-height:90%;
+   border-radius:6px;
+ ">
+</div>
+
+
+
+
 <script>
-  // Find all entry images on this page
-  document.querySelectorAll('.entry-image').forEach(img => {
-    img.style.cursor = "zoom-in"; // visual hint
-    img.addEventListener('click', () => {
-      document.getElementById('lightbox-img').src = img.src;
-      document.getElementById('lightbox').style.display = "flex";
-    });
-  });
+ // Find all entry images on this page
+ document.querySelectorAll('.entry-image').forEach(img => {
+   img.style.cursor = "zoom-in"; // visual hint
+   img.addEventListener('click', () => {
+     document.getElementById('lightbox-img').src = img.src;
+     document.getElementById('lightbox').style.display = "flex";
+   });
+ });
 
-  // Close button
-  document.getElementById('lightbox-close').onclick = () => {
-    document.getElementById('lightbox').style.display = "none";
-  };
 
-  // Click background to close
-  document.getElementById('lightbox').onclick = (e) => {
-    if (e.target.id === 'lightbox') {
-      document.getElementById('lightbox').style.display = "none";
-    }
-  };
+ // Close button
+ document.getElementById('lightbox-close').onclick = () => {
+   document.getElementById('lightbox').style.display = "none";
+ };
+
+
+ // Click background to close
+ document.getElementById('lightbox').onclick = (e) => {
+   if (e.target.id === 'lightbox') {
+     document.getElementById('lightbox').style.display = "none";
+   }
+ };
 </script>
+
 
 </body>
 </html>
 <script src="js/scripts.js"></script>
+
+
