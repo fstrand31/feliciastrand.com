@@ -496,3 +496,9 @@ body.dark-mode {
   max-width: 500px;          /* limit paragraph width */
   margin: -7 auto;            /* center on the page */
 }
+
+@media (max-width: 768px) {
+  .portrait {
+    display: none;
+  }
+}
