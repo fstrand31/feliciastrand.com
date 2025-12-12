@@ -498,7 +498,7 @@ body.dark-mode {
 }
 
 @media (max-width: 768px) {
-  .portrait {
-    display: none;
+  .sidebar .portrait {
+    display: none !important;
   }
 }
