@@ -497,8 +497,10 @@ body.dark-mode {
   margin: -7 auto;            /* center on the page */
 }
 
+/* Hide profile portrait on screens 768px and smaller */
 @media (max-width: 768px) {
-  .sidebar .portrait {
+  .sidebar img.portrait,
+  .sidebar > img {
     display: none !important;
   }
 }
